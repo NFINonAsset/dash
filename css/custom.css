@@ -5,7 +5,10 @@ body {
       rgba(255, 255, 255, 0.6),
       rgba(255, 255, 255, 0.6)
     ),
-    url("http://i.imgur.com/SNzh3jr.png");
+    url("http://i.imgur.com/FXOfm4c.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   margin: 100px;
 }
 
