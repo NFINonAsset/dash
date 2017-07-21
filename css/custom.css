@@ -8,8 +8,8 @@ body {
     url("http://i.imgur.com/FXOfm4c.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
-  margin: 100px;
+  background-position: 100%;
+  margin: 0px;
 }
 
 ._dash-loading {
