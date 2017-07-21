@@ -5,10 +5,7 @@ body {
       rgba(255, 255, 255, 0.6),
       rgba(255, 255, 255, 0.6)
     ),
-    url("http://i.imgur.com/FXOfm4c.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 100%;
+    url("http://i.imgur.com/FXOfm4c.png") no-repeat fixed center;
   margin: 0px;
 }
 
